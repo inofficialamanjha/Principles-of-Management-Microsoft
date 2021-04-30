@@ -22,7 +22,7 @@ What Microsoft values:
 
 # PROJECT ABSTRACT
 
-Henry Fayol, introduced a ‘General Theory of Management’ that can be applied to all levels of management and every department. The theory is practised by the managers to organize and regulate the internal activities of an organization. His concentration was on accomplishing managerial efficiency.
+[**Henry Fayol**](https://en.wikipedia.org/wiki/Henri_Fayol), introduced a ‘General Theory of Management’ that can be applied to all levels of management and every department. The theory is practised by the managers to organize and regulate the internal activities of an organization. His concentration was on accomplishing managerial efficiency.
 
 14 Principles of Management as describes by Henri Fayol are:
 
